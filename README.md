@@ -2,3 +2,4 @@
 
 Here is the Project Documentations Link :- https://docs.google.com/spreadsheets/d/1Lm6xFDyfo59bMQhB_AiqCYa8TFSqFWcLtEOS9OlxkNY/edit#gid=925094827
 
+This App is Mainly Designed For iPad.
